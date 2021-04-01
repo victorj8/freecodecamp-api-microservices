@@ -1,6 +1,7 @@
 {
 	"name": "fcc-learn-npm-package-json",
 	"author": "Victor Camacho",
+	"keywords": ["freecodecamp", "project", "api", "microservices"],
 	"description": "project to practice api & microservices skills",
 	"dependencies": {
 		"express": "^4.14.0"
